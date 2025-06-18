@@ -1,4 +1,8 @@
 {
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Primer Hola Mundo",
+  "author": "Santiago Crespo Gardcía - 322311172",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
