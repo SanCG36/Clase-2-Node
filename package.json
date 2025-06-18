@@ -2,7 +2,7 @@
   "name": "hola-mundo",
   "version": "1.0.0",
   "description": "Primer Hola Mundo",
-  "author": "Santiago Crespo García - 322311172",
+  "author": "Santiago Crespo García - 322311172- sancrespo56@gmail.com",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
